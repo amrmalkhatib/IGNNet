@@ -1,4 +1,6 @@
 # **IGNNet - Interpretable Graph Neural Network for Tabular Data**
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## **Description:**
 This repository contains the implementation of IGNNet (Interpretable Graph Neural Network) for tabular data, a novel approach that aims to provide both high predictive performance and interpretability in handling tabular datasets. The IGNNet model is designed to leverage the power of Graph Neural Networks (GNNs) to effectively capture feature interactions in tabular data while ensuring the interpretability of model predictions. By constraining the learning algorithm, IGNNet generates models that not only provide accurate predictions but also offer insights into how these predictions are computed from the original input features.
