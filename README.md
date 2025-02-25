@@ -3,11 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## **Description:**
-This repository hosts the implementation of IGNH (Interpretable Graph Neural Network for Heterogeneous Tabular Data), a novel approach designed to maintain high predictive performance with interpretability for heterogeneous tabular datasets. IGNH employs Graph Neural Networks (GNNs) to capture feature interactions, while ensuring explainability in model predictions. By applying a set of constraints to the learning process, the model produces not only accurate predictions but also interpretable insights into how these predictions are derived from the original input features. All the experiments have been conducted in a Python 3.8 environment.
+This repository hosts the implementation of IGNNet (Interpretable Graph Neural Network for Tabular Data), a novel approach designed to maintain high predictive performance and explainability for tabular datasets. IGNNNet employs Graph Neural Networks (GNNs) to capture feature interactions, while ensuring explainability in model predictions. By applying a set of constraints to the learning process, the model produces not only accurate predictions but also interpretable insights into how these predictions are derived from the original input features. All the experiments have been conducted in a Python 3.8 environment.
 ## **Usage:**
 1. Clone the Repository: Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/amrmalkhatib/IGNH.git
+   git clone https://github.com/amrmalkhatib/IGNNet.git
    ```
 2. Install Dependencies: Ensure that you have the necessary dependencies installed. You can install them using `pip`:
    ```
