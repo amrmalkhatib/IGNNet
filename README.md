@@ -1,4 +1,4 @@
-# **IGNH - Interpretable Graph Neural Network for Heterogeneous Tabular Data**
+# **IGNNet - Interpretable Graph Neural Networks for Tabular Data**
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
